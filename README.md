@@ -70,7 +70,7 @@ contract/    # Hardhat smart contract project
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mintnftdapp.git
+git clone https://github.com/codewithabbass/mintnftdapp.git
 cd mintnftdapp
 ```
 
